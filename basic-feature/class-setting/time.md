@@ -12,7 +12,13 @@ description: 수업 시간 설정을 위한 수업 시작 시간 목록을 만�
 
 ![](../../.gitbook/assets/Btn_교시시간설정.svg) 버튼을 눌러 팝업을 호출합니다. 시간 입력 및 순서 조정 가능합니다.
 
-<div><figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.17.54.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.22.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.36.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.44.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.17.54.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.22.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.36.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/스크린샷 2025-10-01 오후 12.18.44.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 <mark style="color:red;">**수업 종료 시간**</mark>은 LMS 시스템 내에서 사용되지 않으며, 값을 비워두어도 저장할 수 있습니다.
